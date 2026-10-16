@@ -1,0 +1,23 @@
+{
+  "project": "Soldat Android",
+  "updated": "2026-10-16",
+  "note": "Sizes are rough estimates by one person, not promises. Nothing past milestone 1 has been tried yet.",
+  "repo": "https://github.com/rudventur/soldat-android",
+  "game": "https://soldat.pl",
+  "milestones": [
+    {"id": 0, "title": "Home base: repository, plain-words plan, status list", "status": "done", "estimate": "done"},
+    {"id": 1, "title": "Desk research: licences, libraries, options", "status": "done", "estimate": "done"},
+    {"id": 2, "title": "Build the desktop game from source on Linux (baseline)", "status": "todo", "estimate": "about 1 to 3 days (estimate)"},
+    {"id": 3, "title": "Free Pascal builds a window on an Android phone (arm64)", "status": "todo", "estimate": "about 1 to 2 weeks (estimate)"},
+    {"id": 4, "title": "Build the helper libraries for Android: SDL2, OpenAL, FreeType, PhysFS, GameNetworkingSockets", "status": "todo", "estimate": "about 1 to 3 weeks (estimate)"},
+    {"id": 5, "title": "Graphics: move from desktop OpenGL to OpenGL ES", "status": "todo", "estimate": "about 2 to 4 weeks (estimate)"},
+    {"id": 6, "title": "App shell and game data packaging", "status": "todo", "estimate": "about 1 to 2 weeks (estimate)"},
+    {"id": 7, "title": "Touch controls: move, aim, shoot, jump, weapons", "status": "todo", "estimate": "about 3 to 6 weeks (estimate)"},
+    {"id": 8, "title": "Phone screen layout: menus, text size, heads-up display", "status": "todo", "estimate": "about 2 to 4 weeks (estimate)"},
+    {"id": 9, "title": "Online play against a real server", "status": "todo", "estimate": "about 1 to 3 weeks (estimate, unverified)"},
+    {"id": 10, "title": "Sound on Android", "status": "todo", "estimate": "about 1 week (estimate)"},
+    {"id": 11, "title": "Test on real phones, fix speed and battery use", "status": "todo", "estimate": "about 2 to 4 weeks (estimate)"},
+    {"id": 12, "title": "First installable test build for friends", "status": "todo", "estimate": "about 1 week (estimate)"},
+    {"id": 13, "title": "Decide: public release, name and trademark check", "status": "todo", "estimate": "unknown"}
+  ]
+}
